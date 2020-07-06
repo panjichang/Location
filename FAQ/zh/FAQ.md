@@ -23,7 +23,7 @@ APK下载地址：[官网](http://www.panjichang.com/)     |    [apk下载](http
 有些APP需要在ROOT模式下才有效，比如微信等；
 
 
-### 2、程序后台运行一段时间后自动关闭、跳回真实位置、摇杆退出或摇杆罗盘不随手机方向旋转
+### 2、程序后台运行一段时间后自动关闭、跳回真实位置
 
 这种情况通常是程序被系统或其它某些应用清理掉了，请尝试允许FL后台运行，以及关闭省电优化之类的设置：
 
@@ -41,7 +41,7 @@ APK下载地址：[官网](http://www.panjichang.com/)     |    [apk下载](http
 
 * 小米手机：进入应用详情页，打开“自启动”开关，并把“省电策略”设为无限制，如下图所示
 
-<img src="https://github.com/panjichang/Location/blob/master/FAQ/zh/img/Screenshot_2019-04-27-08-17-37-981_com.miui.secur.png" width="30%" height="30%" />
+<img src="https://github.com/panjichang/Location/blob/master/FAQ/zh/img/Screenshot-miui.png" width="30%" height="30%" />
 
 * 其他手机请自行百度允许程序后台运行的方法
 
